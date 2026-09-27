@@ -12,11 +12,15 @@
 <h2 data-importer="text" align="center">Young Aspiring Uninspiring Programmer</h2>
 
 ###
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/603132749339164683/1553784041134756061/Thing.png?ex=6aba81a7&is=6ab93027&hm=41b77f15eed2d28bbac1c8358bf0b3eaee755d0b5f0cd26ca7c38588f775b7f3"  />
-</div>
-<br>
 
+<br clear="both">
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/603132749339164683/1553795806472175616/Thing3.png?ex=6aba8c9c&is=6ab93b1c&hm=f0cf384f97f69f1959f5237923b2633a80a380573a1b950fba434b423fb0237d&"  />
+</div>
+
+
+###
 
 <i><h3 data-importer="text" align="right">"What's never been's never been so"<br> &nbsp;&nbsp;&nbsp;&nbsp; - Me</h3></i> <br>
 
@@ -32,6 +36,18 @@
 </i>
 
 <p data-importer="text" align="left">I really like making thing, like a lot. I like it when I can pour my brain, heart, and soul on a project and see how it came to be step by step, the critical thinking, the problem solving, every single decision that I consciously picked converges into something big. This is one of the reasons why I'm really interested in programming. </p>
+
+###
+
+
+
+###
+
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media.discordapp.net/attachments/603132749339164683/1553795806031642786/Thing2.png?ex=6aba8c9c&is=6ab93b1c&hm=6a159785e045483f03ed26e474823ca247bac9cb96521068c171bf0c3a090850&=&format=webp&quality=lossless&width=2048&height=675"  />
+</div>
+
 
 ###
 
@@ -67,6 +83,11 @@
 
 ###
 <br>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/603132749339164683/1553795805507362926/Thing1.png?ex=6aba8c9c&is=6ab93b1c&hm=60e564efbad860b0f9254fe5cc5152f81d559316b1b14a7ec9da1d5ee566d478&"  />
+</div>
+<br>
+<br>
 <h2 data-importer="text" align="right">Contact me</h2>
 
 ###
@@ -83,6 +104,8 @@
     <img src="https://img.shields.io/static/v1?message=X%20/%20Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+
 
 <br>
 
