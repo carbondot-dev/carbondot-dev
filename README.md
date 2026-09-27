@@ -6,18 +6,30 @@
 
 <h1 data-importer="text" align="center">> carbon.dev // README.md</h1>
 
+
 ###
 
 <h2 data-importer="text" align="center">Young Aspiring Uninspiring Programmer</h2>
 
 ###
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/603132749339164683/1553784041134756061/Thing.png?ex=6aba81a7&is=6ab93027&hm=41b77f15eed2d28bbac1c8358bf0b3eaee755d0b5f0cd26ca7c38588f775b7f3"  />
+</div>
+<br>
 
-<h3 data-importer="text" align="left">"What's never been's never been so"</h3>
 
-###
+<i><h3 data-importer="text" align="right">"What's never been's never been so"<br> &nbsp;&nbsp;&nbsp;&nbsp; - Me</h3></i> <br>
 
 <p data-importer="text" align="left">I'm carbon.dev you can call me carbon. I'm a student who is interested highly passionate about tech, especially the following:</p>
 
+<i>
+<ul>
+  <li>🎮️ Video Games</li>
+  <li>🖥️ PC Building</li>
+  <li>🐧 Linux</li>
+</ul>
+</i>
+  
 ###
 
 <h2 data-importer="text" align="left">About me</h2>
