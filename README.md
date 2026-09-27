@@ -42,7 +42,7 @@
 <p data-importer="text" align="left">🗓️ Est. Circa 2009<br>📚 I'm currently learning Unity<br>🎯 Goals: Survive<br>🎲 Fun fact: I think I'm funny</p>
 
 ###
-
+<br>
 <h2 data-importer="text" align="left">Things I can work with</h2>
 
 ###
@@ -66,7 +66,7 @@
 </div>
 
 ###
-
+<br>
 <h2 data-importer="text" align="right">Contact me</h2>
 
 ###
@@ -84,6 +84,7 @@
   </a>
 </div>
 
+<br>
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=100&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
