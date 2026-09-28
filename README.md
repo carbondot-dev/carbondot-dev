@@ -23,12 +23,11 @@
 <br>
 
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=100&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
-</div>
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=100&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
 <i><h3 data-importer="text" align="right">"What's never been's never been so"<br> &nbsp;&nbsp;&nbsp;&nbsp; - Me</h3></i> <br>
 
 <div data-importer="image" align="center">
