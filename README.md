@@ -15,11 +15,21 @@
 
 <br clear="both">
 
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="200" alt="languages graph"  />
 </div>
 <br>
+
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=100&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=100&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
+</div>
+<i><h3 data-importer="text" align="right">"What's never been's never been so"<br> &nbsp;&nbsp;&nbsp;&nbsp; - Me</h3></i> <br>
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/603132749339164683/1553795806472175616/Thing3.png?ex=6aba8c9c&is=6ab93b1c&hm=f0cf384f97f69f1959f5237923b2633a80a380573a1b950fba434b423fb0237d&"  />
@@ -27,8 +37,6 @@
 
 
 ###
-
-<i><h3 data-importer="text" align="right">"What's never been's never been so"<br> &nbsp;&nbsp;&nbsp;&nbsp; - Me</h3></i> <br>
 
 
 <p data-importer="text" align="left">I'm carbon.dev you can call me carbon. I'm a student who is interested highly passionate about tech, especially the following:</p>
