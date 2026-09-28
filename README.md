@@ -24,6 +24,13 @@
 
 <i><h3 data-importer="text" align="right">"What's never been's never been so"<br> &nbsp;&nbsp;&nbsp;&nbsp; - Me</h3></i> <br>
 
+
+<div data-importer="stats" align="right">
+  <img src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+
 <p data-importer="text" align="left">I'm carbon.dev you can call me carbon. I'm a student who is interested highly passionate about tech, especially the following:</p>
 
 <i>
@@ -35,7 +42,7 @@
 </ul>
 </i>
 
-<p data-importer="text" align="left">I really like making thing, like a lot. I like it when I can pour my brain, heart, and soul on a project and see how it came to be step by step, the critical thinking, the problem solving, every single decision that I consciously picked converges into something big. This is one of the reasons why I'm really interested in programming. </p>
+<p data-importer="text" align="left">I really love creating things. I thrive when I can pour my brain, heart, and soul into a project and watch it come together step by step. The critical thinking, the problem-solving, and every conscious decision I make all converge into something meaningful. That’s a huge reason why I’m so drawn to programming.</p>
 
 ###
 
