@@ -15,6 +15,12 @@
 
 <br clear="both">
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="200" alt="languages graph"  />
+</div>
+<br>
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/603132749339164683/1553795806472175616/Thing3.png?ex=6aba8c9c&is=6ab93b1c&hm=f0cf384f97f69f1959f5237923b2633a80a380573a1b950fba434b423fb0237d&"  />
 </div>
@@ -23,12 +29,6 @@
 ###
 
 <i><h3 data-importer="text" align="right">"What's never been's never been so"<br> &nbsp;&nbsp;&nbsp;&nbsp; - Me</h3></i> <br>
-
-
-<div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/carbondot-dev/carbondot-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="200" alt="languages graph"  />
-</div>
 
 
 <p data-importer="text" align="left">I'm carbon.dev you can call me carbon. I'm a student who is interested highly passionate about tech, especially the following:</p>
@@ -66,7 +66,7 @@
 
 ###
 <br>
-<h2 data-importer="text" align="left">Things I can work with</h2>
+<h2 data-importer="text" align="right">Things I can work with</h2>
 
 ###
 
@@ -95,13 +95,9 @@
 </div>
 <br>
 <br>
-<h2 data-importer="text" align="right">Contact me</h2>
+<h2 data-importer="text" align="left">Contact me</h2>
 
-###
 
-<p data-importer="text" align="right">Here are some ways to talk to me</p>
-
-###
 
 <div data-importer="socials" align="left">
   <a href="https://discord.com/users/574544405667512330" target="_blank">
