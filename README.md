@@ -25,7 +25,7 @@
 <i><h3 data-importer="text" align="right">"What's never been's never been so"<br> &nbsp;&nbsp;&nbsp;&nbsp; - Me</h3></i> <br>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/603132749339164683/1553795806472175616/Thing3.png?ex=6aba8c9c&is=6ab93b1c&hm=f0cf384f97f69f1959f5237923b2633a80a380573a1b950fba434b423fb0237d&"  />
+  <img data-importer="image" height="200" src="https://github.com/user-attachments/assets/dd202f51-9f27-464e-af43-551e412c7c67"  />
 </div>
 
 
@@ -53,7 +53,7 @@
 
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.discordapp.net/attachments/603132749339164683/1553795806031642786/Thing2.png?ex=6aba8c9c&is=6ab93b1c&hm=6a159785e045483f03ed26e474823ca247bac9cb96521068c171bf0c3a090850&=&format=webp&quality=lossless&width=2048&height=675"  />
+  <img data-importer="image" height="200"src="https://github.com/user-attachments/assets/4586037c-4669-42ec-8073-8e30f02b450e"  />
 </div>
 
 
@@ -102,7 +102,7 @@
 ###
 <br>
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/603132749339164683/1553795805507362926/Thing1.png?ex=6aba8c9c&is=6ab93b1c&hm=60e564efbad860b0f9254fe5cc5152f81d559316b1b14a7ec9da1d5ee566d478&"  />
+  <img data-importer="image" height="200" src="https://github.com/user-attachments/assets/e0bd9756-716e-420c-8d47-84dd28761c20" />
 </div>
 <br>
 <br>
