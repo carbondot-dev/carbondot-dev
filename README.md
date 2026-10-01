@@ -34,14 +34,14 @@
 
 <p data-importer="text" align="left">I'm carbon.dev you can call me carbon. I'm a student who is interested highly passionate about tech, especially the following:</p>
 
-<i>
+
 <ul>
   <li>🎮️ Video Games</li>
   <li>🖥️ PC Building</li>
   <li>🐧 Linux</li>
   <li>🧠 AI </li>
 </ul>
-</i>
+
 
 <p data-importer="text" align="left">I really love creating things. I thrive when I can pour my brain, heart, and soul into a project and watch it come together step by step. The critical thinking, the problem-solving, and every conscious decision I make all converge into something meaningful. That’s a huge reason why I’m so drawn to programming.</p>
 
